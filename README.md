@@ -16,18 +16,12 @@ Download the APK directly from GitHub:
 https://github.com/tianx44-sketch/MyApplication/raw/main/app/build/outputs/apk/debug/app-debug.apk
 ```
 
-### Option 3: Raw HTML Page
-View the raw download page:
-```
-https://tianx44-sketch.github.io/MyApplication/download.html
-```
-
 ## 🚀 Setup GitHub Pages
 
 To enable the download page, GitHub Pages needs to be configured:
 
 1. Go to your repository settings: `https://github.com/tianx44-sketch/MyApplication/settings/pages`
-2. Under "Source", select the branch you want to deploy (e.g., `main` or `copilot/send-link-to-user`)
+2. Under "Source", select the branch you want to deploy (e.g., `main`)
 3. Select "/ (root)" as the folder
 4. Click "Save"
 5. Wait a few minutes for GitHub Pages to deploy
