@@ -7,7 +7,7 @@ An Android application with easy download access.
 ### Option 1: GitHub Pages (Recommended)
 Access the download page at:
 ```
-https://tianx44-sketch.github.io/MyApplication/download.html
+https://tianx44-sketch.github.io/MyApplication/
 ```
 
 ### Option 2: Direct APK Download
@@ -25,7 +25,7 @@ To enable the download page, GitHub Pages needs to be configured:
 3. Select "/ (root)" as the folder
 4. Click "Save"
 5. Wait a few minutes for GitHub Pages to deploy
-6. Your download page will be available at: `https://tianx44-sketch.github.io/MyApplication/download.html`
+6. Your download page will be available at: `https://tianx44-sketch.github.io/MyApplication/`
 
 ## 📱 Installation Instructions
 
@@ -40,13 +40,13 @@ To enable the download page, GitHub Pages needs to be configured:
 
 ## 📦 What's Included
 
-- Download page (`download.html`) - A beautiful, user-friendly download interface
+- Download page (`index.html`) - A beautiful, user-friendly download interface
 - APK file - The compiled Android application ready for installation
 
 ## 🔗 Quick Links
 
 - **Repository**: https://github.com/tianx44-sketch/MyApplication
-- **Download Page**: https://tianx44-sketch.github.io/MyApplication/download.html
+- **Download Page**: https://tianx44-sketch.github.io/MyApplication/
 - **Direct APK**: https://github.com/tianx44-sketch/MyApplication/raw/main/app/build/outputs/apk/debug/app-debug.apk
 
 ---
